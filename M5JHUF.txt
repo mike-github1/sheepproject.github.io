@@ -1,0 +1,355 @@
+Samsung asegura haber lanzado el celular “imposible de hackear”Se trata del Galaxy Quantum, el prime
+ro en integrar un chip con tecnología cuántica.Samsung Quantum, el nuevo dispositivo de la marca sur
+coreana.las más leídasde TecnologíaCómo saber si te bloquearon en WhatsAppCómo saber si te bloquearo
+n en WhatsApp1Samsung asegura haber lanzado el celular "imposible de hackear"Samsung asegura haber l
+anzado el celular “imposible de hackear”2La respuesta de Huawei ante la avanzada de Trump: comenzó a
+ fabricar sus chips "made in China"La respuesta de Huawei ante la avanzada de Trump: comenzó a fabri
+car sus chips “made in China”3Actualizaron la línea de computadoras portátiles LG gram: así lucen su
+s nuevos modelos ultralivianosActualizaron la línea de computadoras portátiles LG gram: así lucen su
+s nuevos modelos ultralivianos4Dónde descargar y cómo hacer stickers para WhatsAppDónde descargar y 
+cómo hacer stickers para WhatsApp5COMENTARIOS(5)18/05/2020 - 14:37    Clarín.com    TecnologíaUna ve
+rsión alternativa al conocido celular Galaxy A71 de Samsung ​está a punto de salir al mercado con un
+a característica que lo hace único: será el primero de la industria que integrará un chip cuántico e
+nfocado a mejorar al extremo la seguridad del dispositivo móvil. Los peligros del home office: estos
+ indicios te dicen que fuiste hackeadoMirá tambiénLos peligros del home office: estos indicios te di
+cen que fuiste hackeadoNewsletters Clarín Lo más leído del díaEnterate de qué se habló hoy para no q
+uedarte afuera del mundoRecibir newsletterEnterate de qué se habló hoy para no quedarte afuera del m
+undoEl teléfono se lo conocerá como Galaxy Quantum y es un desarrollo del operador de telefonía móvi
+l SK Telecom (Corea del Sur) junto con el gigante Samsung. La tecnología cuántica, la clave​​Para en
+tender un poco el funcionamiento de la seguridad cuántica, se la puede vincular con los generadores 
+de números aleatorios normales, que se utilizan habitualmente para acceder a una gran variedad de se
+rvicios en smartphones, como plataformas de pago y la autenticación de dos factores.Mirá tambiénPres
+entan un concepto plegable de iPhone 12 y crecen las dudas sobre el próximo teléfono de AppleCon el 
+chip QRNG esta generación de números se hace de forma aleatoria usando tecnología cuántica, la cual 
+se ubica en un chip de apenas 2.5 x 2.5 mm, donde se utiliza un LED y un sensor de imagen CMOS. El L
+ED emite "ruido de imagen" y el sensor CMOS captura su aleatoriedad cuántica, creando así patrones i
+mpredecibles para tener cadenas de números realmente aleatorios e "imposibles de adivinar".Según SK 
+Telecom, a día de hoy no existe ninguna tecnología que pueda hackear esto, lo que hace que el Galaxy
+ A Quantum sea uno de los teléfonos más seguros del mercado. Características técnicas​El Galaxy A Qu
+antum tiene una pantalla Super AMOLED de 6,7 pulgadas, 8 GB de RAM, 128 GB de almacenamiento interno
+ y un chip Exynos 980 de ocho núcleos. En la parte trasera integra una cámara cuádruple con sensor p
+rincipal de 64 MB, un gran angular de 12 MP, macro y profundidad de 5MP. Al frente encontramos una c
+ámara de 32 MP para selfies.El sistema operativo es Android 10 con One UI 2.0 e incluye WiFi, GPS, 5
+G, LTE, Bluetooth 5.0, NFC, puerto USB-C, soporte a tarjetas microSD y hasta jack de 3,5 mm. La bate
+ría es de 4,500 mAh con carga rápida.4AC5DDE2Samsung presenta el Galaxy A Quantum, un móvil imposibl
+e de hackearLuis Miranda - May 14, 2020 - 19:11 (CET)Samsung anuncio el Galaxy A Quantum, un móvil c
+on tecnología de generación cuántica de números aleatorios que lo convierte en el más seguro del mun
+do.Samsung presenta el Galaxy A Quantum, un móvil imposible de hackearImagen: Luis del Barco.Samsung
+ y SK Telecom presentaron el Galaxy A Quantum, el primer móvil con generación cuántica de números al
+eatorios (QRNG), que lo convierte en el smartphone más seguro del mundo. El terminal cuenta con un c
+hipset que se vale de un sensor de imagen CMOS y un LED que genera secuencias aleatorias imposibles 
+hackear, según el operador surcoreano.El Galaxy A Quantum tiene una pantalla Super AMOLED de 6,7 pul
+gadas, 8 GB de RAM, 128 GB de almacenamiento interno y un chip Exynos 980 de ocho núcleos. El dorsal
+ integra una cámara cuádruple trasera con sensor principal de 64 MB, un gran angular de 12 MP, macro
+ y profundidad de 5MP. Al frente encontramos una cámara de 32 MP para selfies.Samsung habría creado 
+el smartphone más seguro del mundoEn términos de especificaciones es un Galaxy A71 con otro nombre, 
+aunque la cereza del pastel es el chip de seguridad QRNG. En el núcleo de este componente existe un 
+LED que emite un número aleatorio de fotones por medio de ruido cuántico. Este número se captura y c
+uenta por los pixeles del sensor de imagen CMOS, quien ofrece una serie de números aleatorios sin pr
+ocesar.Las aplicaciones acceden directamente a esta información. También pueden alimentarse a un alg
+oritmo RGB para producir bits aleatorios de acuerdo con el estándar NIST 800-90A / B / C. Esta espec
+ificación se centra en generadores de números pseudoaleatorios que son seguros para su uso en cripto
+grafía.El terminal ofrece soporte para redes 5G pero solo funciona en Corea del Sur, ya que el chip 
+de generación cuántica fue diseñado para usarse exclusivamente con los servicios de SK Telecom. El r
+esto de especificaciones se mantienen similares a las del Galaxy A71 5G, modelo en el que está basad
+o este móvil, e incluyen Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.0, NFC, puerto USB-C y un conector de 
+3,5 mm para auriculares.Todo lo anterior es potenciado por una batería de 4.500 mAh y corre bajo And
+roid 10 con la interfaz One UI 2. El Samsung Galaxy A Quantum estará disponible a partir del 22 de m
+ayo a un precio estimado de 649.000 KRW, que al tipo de cambio actual se traduce en 490 euros o $12,
+800 pesos. Se desconoce si Samsung lo lanzará en otras regiones del mundo.4AC5DDE2Johnny Depp demand
+a a medios británicos por hackear su móvil: "Es una cuestión de principios, no de dinero"20minutos  
+13.05.2020 - 13:54h    El actor ha iniciado una batalla legal enviando una reclamación contra News G
+oup Newspapers.    Denuncian un uso indebido de información privada entre la que se incluían datos m
+édicos y sobre sus hijos.    Winona Ryder habla de las acusaciones de maltrato hacia Johnny Depp: "N
+unca fue violento conmigo".Johnny Depp posa en la alfombra roja de la premiere de Asesinato en el Or
+ient Express. El actor Johnny Depp.GTRESSi hace unos meses Johnny Deppacusó al diario británico The 
+Sun de hackear su teléfono para tener acceso a 70.000 mensajes que había enviado, ahora ha decidido 
+demandar a su grupo de medios por invadir su privacidad.Los actores Amber Heard y Johnny Depp, en un
+a imagen de 2016.Amber Heard admite haber golpeado a Johnny Depp en un audio filtradoTal y como cont
+ó Blast, el actor de 56 años ha iniciado una batalla legal enviando una reclamación contra News Goup
+ Newspapers, una filial británica de la compañía estadounidense News Corp.Según fuentes cercanas al 
+caso, el intérprete de Piratas del Caribe acusa al grupo de "múltiples violaciones" de su intimidad 
+y de hacer un "uso indebido de información privada, incluida la recopilación ilegal de sus mensajes 
+de voz por correo y otros datos" entre los que se incluían información médica y sobre sus hijos.En l
+a carta enviada por Johnny Depp explicaba que su equipo había investigado lo sucedido y este supuest
+o hackeo se habría dado entre 1996 y 2010, lo cual revela una "clara intrusión ilegal repetida y pro
+longada".Durante ese periodo, The Sun reveló datos como "los embarazos de su novia o sus movimientos
+ y planes", informaron los representantes del actor, "demostrando una clara vigilancia sobre él".Pen
+élope Cruz y Johnny Depp, en el Festival de Cannes de 2011.Penélope Cruz sale en defensa de Johnny D
+epp y se suma así a Winona Ryder"Ayer enviamos una notificación a The Sun de nuestra intención de pr
+esentar una demanda contra ellos por hackear ilegalmente a Johnny Depp", añadieron y explicaron el a
+bogado que la llevará, David Sherborne, ya había representado a rostros como la princesa Diana, Elto
+n John, Jude Law, Hugh Grant, o el príncipe Harryen denuncias de piratería similares contra el mismo
+ diario. "The Sun ha pagado decenas de millones de libras para resolver docenas de demandas por pira
+tería informática ilegal por una razón: porque es verdad que lo hicieron. Este caso es una cuestión 
+de principios para el señor Depp, no de dinero", dijo su abogado Adam Waldman en una declaración.4AC
+5DDE2(CNN) — La segunda fase de una subasta de whisky en línea de un millón de dólares se pospuso de
+spués de que se convirtió en el objetivo de un ciberataque, indicaron los subastadores.  Apodada “la
+ colección perfecta”, los licores fueron amasados por el difunto Richard Gooding, un coleccionista p
+rivado estadounidense de Colorado.  Gooding pasó décadas buscando la colección perfecta, y viajó reg
+ularmente a Escocia para buscar botellas especiales en subastas y destilerías, según la casa de suba
+stas, el vendedor especializado en bebidas Whiskey Auctioneers.  Toda su colección consistió en más 
+de 3.900 botellas, principalmente whisky escocés de malta única, con algunas valoradas individualmen
+te en más de £ 1,2 millones (US$ 1,4 millones), indicaron los subastadores.  La colección tenía whis
+kies de destilerías ahora cerradas. Crédito: Peter Dibdin  La ecléctica mezcla de whiskies incluye b
+otellas raras y valiosas de The Macallan, Bowmore y Springbank, así como bebidas de destilerías ahor
+a cerradas, Stromness Distillery y Dallas Dhu.  La primera parte de la colección, compuesta por más 
+de 1.900 botellas, se vendió por alrededor de £ 3,2 millones (US$ 3,9 millones) a principios de este
+ año.  La segunda fase, que presenta más de 1.900 botellas incluida una botella de The Macallan 1926
+ Fine & Rare 60 Year Old, y con la que el subastador con sede en Perth espera obtener más de £ 1 mil
+lón (US$ 1,2 millones), comenzó a funcionar el 10 de abril.  La licitación debía cerrarse a las 7 pm
+ hora local el 20 de abril, confirmaron los subastadores a CNN, pero fue pospuesta por dos días, ini
+cialmente atribuida a “cargas excesivas anormales en el sitio web, lo que causó algunos problemas té
+cnicos”.  Ahora, una declaración en el sitio web del subastador asegura que la subasta fue sido blan
+co de delincuentes.  “Aproximadamente a las 22,30 (BST) del 21 de abril, WhiskyAuctioneer.com experi
+mentó un ataque dirigido, tecnológicamente sofisticado, sostenido y malicioso en nuestro sitio web y
+ bases de datos”, señaló el subastador en el comunicado, agregando que la segunda parte de la la sub
+asta de Perfect Collection se pospuso “indefinidamente”.  Los subastadores indicaron que la segunda 
+fase de la subasta se pospuso “indefinidamente”. Crédito: Peter Dibdin  “Extendemos nuestras disculp
+as a aquellos que están decepcionados por el aplazamiento de la subasta y a todos los que pueden ver
+se afectados por el ataque.  “El equipo está trabajando extremadamente duro para investigar esto y m
+inimizar los impactos en nuestros valiosos clientes como resultado de esta situación”, agregaron.  L
+a policía en Escocia le dijo a CNN por correo electrónico que habían recibido un informe de un incid
+ente cibernético de un negocio en Perth, Escocia, el 21 de abril, e indicaron que las investigacione
+s estaban “en una etapa temprana”.4AC5DDE2EEUU acusa a China de intentar hackear los informes sobre 
+el desarrollo de una vacuna para el coronavirusSegún el FBI, el gigante asiático estaría utilizando 
+a sus espías más experimentados para robar los datos recabadosLunes, 11/05/2020 - 20:07    Botón Fac
+ebook Messenger1El presidente de Estados Unidos, Donald Trump, en una comparecencia de prensa.El pre
+sidente de Estados Unidos, Donald Trump, en una comparecencia de prensa. / JONATHAN ERNST (REUTERS)L
+a Policía Federal de Estados Unidos (FBI) y el Departamento de Seguridad Nacional han acusado este l
+unes a China de intentar hackear los informes sobre el desarrollo de una vacuna y un posible tratami
+ento con el que hacer frente al coronavirus. Según fuentes del FBI, el gigante asiático estaría util
+izando a sus espías y hackers más experimentados para robar los datos recabados por Estados Unidos s
+obre el desarrollo de una vacuna.Una decena de países han comenzado a hacer uso de hackers para trat
+ar de obtener la mayor cantidad de información posible sobre la forma en que otros países están comb
+atiendo el virus, tal y como ha informado el diario local The New York Times. Varios altos cargos ha
+n explicado al citado medio de comunicación que Pekín está tratando de hacerse con "propiedad intele
+ctual de gran valor sobre vacunas y tratamientos mediante métodos ilícitos".Residencia geriátrica Ei
+xample de El Prat.&#160;Más informaciónCoronavirus: El Consejo de Ministros planteará hoy que el est
+ado de alarma se alargue hasta el 27 de junio | Últimas noticias en DIRECTOEl Gobierno estadounidens
+e tiene intención de emitir una acusación formal esta misma semana, la cual se centrará en el robo c
+ibernético por parte de "actores no tradicionales". Dicha acusación sería el último intento por part
+e de la Administración del presidente, Donald Trump, de culpar a China de ser el origen de la pandem
+ia y de sacar beneficios, posteriormente, del virus.El secretario de Estado estadounidense, Mike Pom
+peo, ha asegurado que existe un gran número de pruebas de que el virus proviene de un laboratorio de
+ la ciudad china de Wuhan, donde se originó la pandemia en diciembre. Las agencias de Inteligencia, 
+no obstante, dicen no haber llegado a una conclusión al respecto, pero han indicado que las pruebas 
+apunta a que el origen del brote se encuentra en un mercado de animales salvajes de Wuhan. 4AC5DDE2A
+gradecemos tu interés en nuestros contenidos, sin embargo; este material cuenta con derechos de pro
+piedad intelectual, queda expresamente prohibido la publicación, retransmisión, distribución, ven
+ta, edición y cualquier otro uso de los contenidos (incluyendo, pero no limi- tado a, contenido, te
+xto, fotografías, audios, videos y logotipos) sin previa autorización por escrito de EL UNIVERSAL,
+ Compañía Periodística Nacional S. A. de C. V. Si deseas hacer uso de ellos te invitamos a visita
+r nuestra tienda en línea: http://tienda.agenciaeluniversal.mx , o bien, puedes comunicarte con nos
+otros para cualquier duda, comentario o sugerencia al teléfono: 57091313 Ext. 2406 y 2425 de lunes 
+a viernes en horarios de oficina. Si deseas suscribete en nuestra versión impresa o digital, puedes 
+comunicarte al teléfono 5709 1313 Ext. 1564 de lunes a viernes en horarios de oficina.4AC5DDE2Las me
+jores aplicaciones Android para hackear Wi-FiLorena FernándezPublicado el 16 de mayo, 2020 • 10:00Ex
+isten ocasiones en que tenemos problemas con nuestra red inalámbrica y simplemente, no sabemos qué h
+acer o por dónde empezar para encontrar la solución. Por esa razón, la auditoría existe para poder a
+yudarnos a encontrar el problema y así, solucionarlo de raíz. El hacking Wi-Fi puede combinarse con 
+la auditoría para contar con un esquema de seguridad de redes inalámbricas bastante robusto. Sin emb
+argo, ¿qué aplicaciones podemos utilizar? Esta guía te recomendará diferentes aplicaciones, y una bu
+ena parte de ellas son compatibles con móviles Android para auditar y hackear Wi-Fi. Incluso, podrás
+ sacar provecho de ese móvil que no usas hace tiempo.Las auditorías Wi-Fi consisten en una revisión 
+de la red Wi-Fi en general, y, por supuesto, también de la seguridad de la propia red inalámbrica Wi
+-Fi. Los aspectos más importantes que se tienen en cuenta es el nivel y la calidad de la señal, la v
+elocidad de transmisión de datos, cuántos dispositivos se encuentran conectados a la red inalámbrica
+, y otros aspectos más. Por fortuna, las aplicaciones de auditorías Wi-Fi en general, son muy fácile
+s e intuitivas de utilizar, por lo que en unos minutos, podrás contar con la información que necesit
+as.Por otro lado, hablando de hackear Wi-Fi, las actividades relacionadas son prácticamente las mism
+as que las de auditoría. Sin embargo, estas se distinguen por enfocarse en la demostración de las vu
+lnerabilidades y/o agujeros de seguridad que tiene una red inalámbrica.Aplicaciones gratuitas para h
+ackear Wi-Fi y realizar auditoríasVarias de las aplicaciones que verás a continuación cuentan con pr
+e-requisitos esenciales como un móvil con Android en modo ROOT. Por lo que, si vas a empezar a hacke
+ar Wi-Fi, en primera instancia opta por aquellas aplicaciones que sean más fáciles e intuitivos de u
+tilizar.Aircrack-ngSi eres usuario Linux, esta aplicación te sonará, es una de las más conocidas y f
+iables para hackear una red inalámbrica. Sin embargo, es importante prestar atención a todos los req
+uisitos pues todos son esenciales para un proceso exitoso. Los requisitos más importantes son: que t
+u móvil Android esté en modo ROOT, que el mismo tenga compatibilidad para el modo «monitor» (monitor
+ mode), y un adaptador Wi-Fi por USB. Así también, necesitas de un ordenador con Ubuntu en su versió
+n 14 o superior. Si utilizas otra distribución, no hay problema. Por otro lado, necesitarás un adapt
+ador USB OTG, específicamente el de micro USB o USB tipo C a USB hembra.Ahora bien, ¿por qué necesit
+o que mi móvil tenga soporte para el modo monitor? Para que sea posible capturar todo dato que se tr
+ansmita desde el aire en general, no solamente desde el ordenador. A esa captura de información se l
+a conoce como modo promiscuo. Por lo que antes que nada, busca información respecto a si tu móvil es
+ compatible.Es bueno saber que no existe una única guía definitiva para poner en marcha Aircrackng e
+n nuestro Android. Lo que hace que varíe muchísimo en cada situación, es la marca y el modelo del mó
+vil, la versión del sistema operativo, si el mismo es una distribución abierta (Cyanogen Mod, por ej
+emplo) o una versión personalizada como la de marcas como Samsung. Las variables son múltiples. Igua
+lmente, hemos visto múltiples tutoriales de hace ya varios años y queda evidencia de que dispositivo
+s algo viejos como el LG G2, los legendarios Nexus 4/5/7 y HTC One fueron probados con éxito.Recomen
+damos visitar foros de sitios como XDA Developers, Reddit y StackExchange, con el fin de encontrar t
+utoriales ajustados a cada caso y qué hacer si se presenta algún inconveniente.dSploitAplicaciones c
+omo esta y otras presentes en la guía, fueron creadas con el fin de detectar vulnerabilidades en las
+ redes inalámbricas. Esta es una de las actividades esenciales para hackear Wi-Fi. No debemos dejar 
+de recordar que cada uno es responsable del uso que uno les da a estas aplicaciones y que se recomie
+nda hacerlo con fines educativos y profesionales.Además de las capacidades de cracking y detección d
+e vulnerabilidades, con dSploit es posible realizar acciones como alteración de los paquetes de dato
+s en tránsito, decidir qué paquetes se envían finalmente a través de la red, robo de datos y visuali
+zación de contraseñas para luego robarlas. Sobre esto último, si tu foco es saber qué tanto daño pue
+des hacer a los dispositivos que están conectados a tu red, puedes hacer más: obtener control comple
+to del dispositivo de la víctima y la inhabilitación permanente de los paquetes de datos.Como vemos,
+ todas estas son vulnerabilidades ya identificadas con anterioridad. Por lo que esta aplicación tamb
+ién nos da algo de conciencia respecto a la importancia de conectarse a redes seguras. No importa qu
+é tan urgente sea nuestra necesidad de conectarnos, es mejor ser precavido antes que lamentar la pér
+dida de nuestros datos personales o el mal funcionamiento de nuestro móvil.Descarga la apk de forma 
+gratuita y pruébala. Para este caso, es necesario también contar con tu móvil en modo ROOT.Inspector
+ Wi-FiEsta aplicación sirve tanto para auditar como para hackear Wi-Fi. Sin embargo, esta aplicación
+ se orienta a fines profesionales. Si eres un profesional en el ámbito de la seguridad informática, 
+hacker ético o si trabajas en TI, es una herramienta móvil muy útil. Toda necesidad de control y mon
+itoreo de las redes, puede ser cubierta con esta aplicación.El requisito principal para usar Inspect
+or Wi-Fi es que tu móvil Android se encuentre en modo ROOT. A pesar de que es similar incluso a algu
+nas de las aplicaciones presentes en esta guía, se la conoce por ser más intuitiva. Algunas de las i
+nformaciones esenciales que te despliega son la cantidad de dispositivos conectados, su dirección de
+ IP y qué tipo de dispositivos usan.Al mismo tiempo, puedes limitar el uso de la red. Es decir, que 
+en segundos puedes dejar a algún miembro de tu red sin conexión a Internet, aunque esté conectada a 
+la red. A continuación, compartimos el atajo para descargarlo, si tu móvil está en modo ROOT, puedes
+ probarlo ahora mismo:Inspector WifiDescargarQR-CodeInspector WifiDeveloper: LK Interactive Services
+Price: FreeWiFi Pass KeyEsta es otra de las aplicaciones Android que puedes utilizar para hackear Wi
+-Fi, con el propósito de desafiar la vulnerabilidad de tu red. Además de esto, es posible crear y co
+mpartir hotspots como para que otros usuarios se conecten, esto directamente desde la aplicación. Si
+n embargo, no cuenta con la capacidad de crackear la contraseña de una red, simplemente te muestra c
+uáles son las redes que cuentan con contraseñas compartidas o bien, ninguna medida de seguridad. Wi-
+Fi Pass Key es muy fácil de usar y está disponible para su descarga (APK) e instalación sin coste al
+guno. No necesita de ROOT.ReaverCon esta app vas a poder obtener las contraseñas de las redes Wi-Fi 
+con facilidad. Una de las ventajas que tiene es la GUI (interfaz de usuario), que la vuelve mucho má
+s amigable para el usuario en general. ¿Qué puedo hacer exactamente con Reaver? Puedo detectar de fo
+rma automática cualquier router Wi-Fi que sea compatible con WPS, habilitar y deshabilitar el modo «
+monitor».Si al momento de escanear redes, se encuentra una clave WPA que me permita la conexión a un
+a determinada red, lo hace automáticamente. Para un uso más personalizado, soporta scripts externos 
+y opciones de configuración avanzada. Esto significa que tanto usuarios principiantes como avanzados
+ pueden aprovechar las prestaciones de esta aplicación. Accede a este enlace para la descarga de la 
+aplicación y sigue las instrucciones de instalación. Es una de las herramientas que más recomendamos
+ para empezar a hackear Wi-Fi.WeeNetEs una de las aplicaciones de auditoría Wi-Fi más completas que 
+hemos encontrado. Se instala y se pone en marcha en cuestión de un par de minutos. Lo primero que po
+drás verificar al ingresar a WeeNet, es ver cierta información sobre la red a la cual estás conectad
+o actualmente. Además, puedes saber cuántos dispositivos están conectados y qué tipo de dispositivos
+ son. El ejemplo que compartimos más abajo muestra que a la red Wi-Fi se encuentran conectados un mó
+vil, un dispositivo genérico (puede ser un smartwatch, por ejemplo) y un Chromecast. A cada uno de l
+os dispositivos se le puede hacer ping y buscar los puertos TCP o UDP abiertos que tiene. Simplement
+e, debes hacer clic en el botón que se encuentra al lado de cada dispositivo conectado a la red.Otra
+ herramienta rápida de auditoría que te servirá es la de Diagnóstico de Red. En pocos minutos tendrá
+s información respecto al estado de la red en general. Podrás saber sobre la velocidad de descarga, 
+las redes vecinas que representan interferencias para la red a la cual estamos conectados, la veloci
+dad y calidad de la señal de Internet, entre otros datos. No existen límite de veces para realizar e
+stos diagnósticos.Esta es otra de las vistas que será de gran utilidad: el listado de las redes disp
+onibles. Mucho más rápidamente, sabrás cuál es el nivel de señal. Esto es de gran ayuda sobre todo s
+i queremos determinar cuál es la ubicación real del router Wi-Fi o si es que necesitaríamos de un am
+plificador o repetidor para poder proveer mejor calidad de señal.Otra utilidad con la que cuenta Wee
+Net es una herramienta de soporte y gestión de redes. Simplemente debes ingresar cualquier dirección
+ de IP o dominio de sitio web y luego elegir cuál de los comandos básicos ejecutar: ping, traceroute
+, cuáles son los números de puerto, whois y DNS.Uno de los pocos inconvenientes que tiene es que cue
+nta con anuncios publicitarios, por lo que no es muy agradable usarlo así. Cuenta con una versión pr
+emium bastante barata, entonces si te decides por esta aplicación, recomendamos usarla al máximo con
+ la versión de pago y adiós a los anuncios. Puedes descargar esta app directamente desde Google Play
+:WeeNet - Network ToolDescargarQR-CodeWeeNet - Network ToolDeveloper: Sangiorgi SrlPrice: FreeWPS WP
+A TesterEs una aplicación que sirve para auditar y hackear Wi-Fi que está orientada a comprobar la s
+eguridad de las redes Wi-Fi, especialmente aquellas que cuentan con protocolos muy débiles en cuanto
+ a seguridad, como el WPS o WEP. Después de instalar la aplicación, a primera vista obtendrás un lis
+tado de las redes disponibles a tu alrededor, incluyendo la red a la cual estás conectado. Sabrás el
+ nivel y calidad de señal, la marca del router, el canal en donde está operando y la dirección MAC.C
+ualquiera sea la red que elijas, te aparecerá una advertencia antes de empezar. Básicamente, informa
+ que la aplicación se creó para usos educacionales y que tú eres el único responsable por el uso fin
+al que le des. Por supuesto, no debemos utilizar ninguna aplicación de este tipo con fines malicioso
+s.Para ir al siguiente paso, debes hacer clic en «Next» y verás las opciones de pruebas que intentan
+ vulnerar la protección de nuestras redes Wi-Fi. Una de las pruebas que podemos hacer es tratar de c
+onectarnos a nuestra red sin la contraseña, pero con el PIN WPS que viene por defecto en los routers
+. Por supuesto, de acuerdo a la marca y modelo la combinación de números del PIN WPS puede variar. E
+s por eso que intentará conectarse insertando automáticamente todas las combinaciones de PIN posible
+s.Sin embargo, no será posible disfrutar de algunas de las prestaciones de esta aplicación debido a 
+que algunas se encuentran restringidas por el requisito de que el móvil Android tiene que estar en m
+odo ROOT. Podéis descargar esta aplicación directamente desde Google Play:WIFI WPS WPA TESTERDescarg
+arQR-CodeWIFI WPS WPA TESTERDeveloper: Sangiorgi SrlPrice: FreeNetCutSin duda, era esto lo que nos h
+acía falta. Nada más desagradable que darnos cuenta que nuestra conexión es muy lenta y que sea por 
+culpa de extraños que se conectan a nuestra red. Lo que distingue a NetCut de las demás es que de ma
+nera muy eficaz podrás dejar sin conexión a aquellos usuarios extraños a tu red Wi-Fi. Es una aplica
+ción gratuita para la auditoría Wi-Fi y es compatible con múltiples dispositivos. Sin embargo, la ve
+rsión para PC es mucho más práctica y no requiere de permisos especiales. Debes descargar la última 
+versión y el proceso de instalación es rápido.Ten en cuenta que, a la hora de instalar, deberás pres
+tar atención pues se instalarán dos programas en total. Una vez que hayas terminado, se abrirá una v
+entana en tu navegador, será tu interfaz de administración.La aplicación se divide en tres partes pr
+incipales: la que corresponde a los usuarios bloqueados, la del medio que corresponde a los usuarios
+ actualmente conectados a la red y la última, a la derecha, que son los dispositivos «principales» d
+e la red: el ordenador desde donde manejas Netcut y el router Wi-Fi.Además de funcional, es muy senc
+illo el poder tener control de qué es lo que se conecta a la red. Podemos personalizar el nombre del
+ dispositivo para identificarlo mejor, limitar el ancho de banda que puede utilizar (el botón ovalad
+o que puedes deslizar) y programar un horario para que el usuario no tenga conectividad. Esto último
+ es especialmente útil si tenemos que implementar alguna técnica de control parental.Ahora, lo más i
+mportante: limitar por completo la conectividad. La imagen que vemos más abajo muestra el dispositiv
+o conectado y podemos notar el ícono de señal Wi-Fi.Tan sólo haces clic en ese ícono y dejas sin con
+ectividad en ese horario. y el perfil del usuario conectado automáticamente a la izquierda. El ícono
+ de señal Wi-Fi queda en rojo. Simplemente, debes hacer clic en el ícono en rojo para retornar la co
+nectividad.Una de las lecciones que podemos sacar de NetCut es la importancia de la seguridad de las
+ contraseñas que ponemos a nuestras redes. No importa si en tu zona vive muy poca gente, o si tus ve
+cinos pasan poco tiempo en sus casas. Siempre existirán situaciones en las que personas se conecten 
+a tu Wi-Fi para poder realizar sus actividades.Así también, si no tomamos las medidas básicas de seg
+uridad con nuestras redes, podríamos ser víctimas de ataques. Las redes inalámbricas, por naturaleza
+, son más vulnerables que las redes por cable. Por lo que es sumamente importante utilizar equipos q
+ue nos garanticen una experiencia de uso de alta calidad y seguridad.FingOtra aplicación móvil para 
+Android que es gratuita y bastante funcional. A pesar de que vemos algún que otro anuncio, no es par
+a nada invasivo y no interrumpe el uso normal de Fing.  En un solo vistazo, sabrás sobre cuántos son
+ los dispositivos conectados a la red, de qué tipo son, la marca, la dirección IP y la dirección MAC
+.Seleccionando uno de los dispositivos, se despliegan más opciones. Por ejemplo, puedes ejecutar los
+ comandos ping y traceroute. Se puede ver que la dirección MAC que tenemos más abajo no figura por c
+ompleto, esto es porque Fing tiene una opción que permite enmascarar las direcciones MAC. Si necesit
+as compartir información sobre el dispositivo, como en este caso, podrás hacerlo con tranquilidad ya
+ que los últimos dígitos identificadores no serán visibles.Nota: El botón de Borre no significa que 
+vayas a dejarlo sin conectividad, simplemente desaparecerá de tu listado para poder administrarlo.Ot
+ras funcionalidades de red que podemos tener es un mapa en donde te muestran los últimos eventos de 
+caída de la salida a Internet a nivel mundial. O bien, como en el ejemplo, puedes optar por una espe
+cie de mapa de calor que indica en vivo cuáles son las zonas con problemas.Existen varios ajustes qu
+e podemos hacer de manera a que la aplicación funcione de la manera esperada:    Activar/desactivar 
+reconocimiento de dispositivos (para que muestre o no datos específicos de los mismos)    Activar/de
+sactivar búsqueda inversa de DNS    Opción de activación del modo nocturno    Enmascarar o no las di
+recciones MAC para mayor privacidad y otras opciones másPodéis descargar la app de Fing directamente
+ desde Google Play:Fing - Escáner de redDescargarQR-CodeFing - Escáner de redDeveloper: Fing Limited
+Price: FreeAuditar y hackear redes Wi-Fi puede ser muy divertido y sumamente didáctico, sobre todo, 
+por la cantidad de conocimientos que adquieres con la práctica. Esperamos que estas aplicaciones os 
+sean de mucha utilidad, ¡coméntanos si las has utilizado anteriormente!4AC5DDE2 Siete de cada 10 emp
+resas dudan de poder recuperar sus datos después de un ataque cibernético  De acuerdo con el Índice 
+de Protección de Datos de Dell Technologies, 82% de las organizaciones sufrió un evento disruptivo q
+ue afectó su información en los 12 meses más recientes y al menos 68% cree que vivirá un evento de e
+ste tipo en los próximos 12 meses. [Rodrigo Riquelme] Rodrigo Riquelme 14 de mayo de 2020, 13:36  Si
+ete de cada 10 empresas dudan de poder recuperar sus datos después de un ataque cibernético  El 70% 
+de las empresas desconfía de su capacidad para recuperar los datos perdidos por un ataque cibernétic
+o, de acuerdo con la más reciente edición del Índice de Protección de Datos realizado por Dell Techn
+ologies. La mayoría de las organizaciones a nivel global tampoco está segura de poder recuperar su i
+nformación después de un incidente de pérdida de datos como son los desastres naturales.  De acuerdo
+ con Alfredo Taborga, director de la Unidad de Protección de la Información para la región andina, M
+éxico y el norte de América Latina en Dell Technologies, esto es preocupante si se considera que la 
+mayor amenaza para las organizaciones es el crecimiento en la cantidad de eventos disruptivos que am
+enazan la seguridad de los datos y que incluyen a los ataques cibernéticos, la interrupción de las o
+peraciones o algún incidente de pérdida de datos.    Según el índice, que analiza la información pro
+vista por 1,000 tomadores de decisiones de Tecnologías de la Información en 15 países, incluidos Méx
+ico, Brasil y Colombia para el caso de Latinoamérica, 82% de las organizaciones sufrió un evento dis
+ruptivo que afectó su información en los 12 meses más recientes y al menos 68% cree que vivirá un ev
+ento de este tipo en los próximos 12 meses.  Para Taborga, esta desconfianza sobre la capacidad para
+ proteger y recuperar la información se debe a que las organizaciones rara vez realizan pruebas para
+ garantizar el funcionamiento de sus métodos de respaldo, por lo que cuando acuden a estos, muchas v
+eces no funcionan o están incompletos.  “Hay portafolios de protección de la información que permite
+n reducir esos huecos que se quedan en los respaldos y que permiten contar con 98 o 99% de confiabil
+idad de la operación”, dijo y añadió que la cantidad de datos que gestionan actualmente las organiza
+ciones en todo el mundo es 831% mayor a los que gestionaban en 2016, hace apenas cuatro años. Pérdid
+a de datos cuesta 800,000 dólares  A nivel global, el costo promedio por la pérdida de información p
+ara una organización asciende a 800,000 dólares, lo que supone un aumento de hasta 54% entre 2018 y 
+2019; no obstante, en el caso de México, la anterior edición del índice estimó un costo de 1 millón 
+57,593 dólares por un evento de pérdida de datos en 2018, lo que supera en más de 200,000 dólares el
+ promedio mundial.       De acuerdo con Taborga, esta cifra aumenta cuando una organización cuenta c
+on más de un proveedor de soluciones de protección de datos, esto se debe a que, según el directivo,
+ las empresas que recurren a dos soluciones de respaldo y seguridad de la información son más vulner
+ables a ataques cibernéticos.  “Mientras más proveedores tenga una empresa, más vulnerables son sus 
+datos”, dijo Taborga. Trabajo remoto aumenta riesgos   Las tecnologías emergentes, como la implement
+ación de redes 5G, algoritmos de Inteligencia Artificial y Aprendizaje Automatizado, las aplicacione
+s nativas en la nube, el Internet de las Cosas y la automatización de procesos suponen también un de
+safío para la protección de datos de las organizaciones que buscan usar este tipo de tecnologías.   
+Según el índice de Dell, seis de cada 10 organizaciones creen que las tecnologías emergentes suponen
+ un riesgo para la protección de datos y hasta 81% de quienes respondieron la encuesta piensa que la
+s soluciones de protección de datos con las que cuenta su organización no podrán cumplir con los des
+afíos que ésta enfrente en el futuro.  Las soluciones de nube y la automatización de procesos están 
+entre las razones por las que el trabajo a distancia al que han recurrido muchas empresas para mante
+ner sus operaciones durante la emergencia sanitaria provocada por la pandemia de Covid-19 incrementa
+ los riesgos que amenazan la protección de datos de estas compañías.  “Cuando las empresas abren sus
+ puertos para que sus trabajadores trabajen desde casa evidentemente se abre una potencial brecha de
+ seguridad”, dijo Carlos Patiño, director senior de la División de Protección y Disponibilidad de Da
+tos para América Latina.   rodrigo.riquelme@eleconomista.mx
